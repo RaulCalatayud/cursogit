@@ -3,8 +3,5 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Notas
-Pueden hacer lo que quieran...
+## Ya esto es un cambio pa subir
 
-### Objetivos del repositorio
-Repositear cosas
